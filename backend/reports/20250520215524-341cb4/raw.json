@@ -1,0 +1,1303 @@
+{
+  "url": "https://www.coursera.org/",
+  "status_code": 200,
+  "response_time_ms": 16035.8,
+  "ttfb_ms": null,
+  "headers": {
+    "content-type": "text/html",
+    "cache-control": "private, no-cache, no-store, must-revalidate, max-age=0",
+    "content-encoding": "gzip",
+    "date": "Tue, 20 May 2025 13:55:28 GMT",
+    "etag": "W/\"8b99a-zCmlUTppG6kevhXdFhsj3TmbwoM\"",
+    "server": "envoy",
+    "set-cookie": "CSRF3-Token=1748613328.GJgF4jX84J6QhsKX; Max-Age=864000; Expires=Fri, 30 May 2025 13:55:28 GMT; SameSite=None; Path=/; Domain=.coursera.org; Secure\n__204u=7261475516-1747749328253; Max-Age=31536000; Expires=Wed, 20 May 2026 13:55:28 GMT; Path=/; Domain=.coursera.org",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "traceresponse": "00-b4e7cf79b53e0e5954bd8750c5f5d97b-95d1e108763b026a-00",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-coursera-appname": "front-page",
+    "x-coursera-render-mode": "html",
+    "x-coursera-render-version": "v2",
+    "x-coursera-request-id": "FiyjzTWCEfCImQr_3M4CgQ",
+    "x-coursera-trace-id-hex": "a59dae94ed5f9e64",
+    "x-envoy-upstream-service-time": "217",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Express",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "Miss from cloudfront",
+    "via": "1.1 7f7459c105b363c4521133044bce479c.cloudfront.net (CloudFront)",
+    "x-amz-cf-pop": "NRT57-P6",
+    "x-amz-cf-id": "WaGKmK7hywSzQSP7TTNep63S8QraSQD5f12-o4ucXgCHr86y-atqvA==",
+    "x-firefox-spdy": "h2"
+  },
+  "analysis": {
+    "title": "Coursera | Degrees, Certificates, & Free Online Courses",
+    "meta_description": "Learn new job skills in online courses from industry leaders like Google, IBM, & Meta. Advance your career with top degrees from Michigan, Penn, Imperial & more.",
+    "metas": {
+      "": "IE=Edge,chrome=IE7",
+      "og:site_name": "Coursera",
+      "fb:admins": "727836538,4807654",
+      "fb:app_id": "823425307723964",
+      "twitter:site": "Coursera",
+      "twitter:app:name:iphone": "Coursera",
+      "twitter:app:name:ipad": "Coursera",
+      "twitter:app:name:googleplay": "Coursera",
+      "twitter:app:id:iphone": "id736535961",
+      "twitter:app:id:ipad": "id736535961",
+      "twitter:app:id:googleplay": "org.coursera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tilecolor": "#2d89ef",
+      "msapplication-tileimage": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/mstile-v2-144x144.png",
+      "theme-color": "#0056D2",
+      "qc:admins": "366737676376375235216727",
+      "yandex-verification": "4970cfdb825622c7",
+      "og:url": "https://www.coursera.org/",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "description": "Learn new job skills in online courses from industry leaders like Google, IBM, & Meta. Advance your career with top degrees from Michigan, Penn, Imperial & more.",
+      "image": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png",
+      "og:title": "Coursera | Degrees, Certificates, & Free Online Courses",
+      "og:description": "Learn new job skills in online courses from industry leaders like Google, IBM, & Meta. Advance your career with top degrees from Michigan, Penn, Imperial & more.",
+      "og:image": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png",
+      "twitter:title": "Coursera | Degrees, Certificates, & Free Online Courses",
+      "twitter:description": "Learn new job skills in online courses from industry leaders like Google, IBM, & Meta. Advance your career with top degrees from Michigan, Penn, Imperial & more.",
+      "twitter:image:src": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png",
+      "twitter:image": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png",
+      "twitter:card": "summary"
+    },
+    "canonical": true,
+    "hreflang_count": 2,
+    "social_tags_count": 19,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Learn without limits"
+      },
+      {
+        "tag": "h2",
+        "text": "We collaborate with350+ leading universities and companies"
+      },
+      {
+        "tag": "h2",
+        "text": "Choose your role"
+      },
+      {
+        "tag": "h3",
+        "text": "Data Analyst"
+      },
+      {
+        "tag": "h3",
+        "text": "Data Analyst"
+      },
+      {
+        "tag": "h3",
+        "text": "Credentials"
+      },
+      {
+        "tag": "h3",
+        "text": "Data Scientist"
+      },
+      {
+        "tag": "h3",
+        "text": "Data Scientist"
+      },
+      {
+        "tag": "h3",
+        "text": "Credentials"
+      },
+      {
+        "tag": "h3",
+        "text": "Cyber Security Analyst"
+      },
+      {
+        "tag": "h3",
+        "text": "Cyber Security Analyst"
+      },
+      {
+        "tag": "h3",
+        "text": "Credentials"
+      },
+      {
+        "tag": "h2",
+        "text": "Most Popular Certificates"
+      },
+      {
+        "tag": "h3",
+        "text": "Google Data Analytics"
+      },
+      {
+        "tag": "h3",
+        "text": "Google Project Management:"
+      },
+      {
+        "tag": "h3",
+        "text": "Google IT Support"
+      },
+      {
+        "tag": "h3",
+        "text": "Google UX Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Get started with GenAI"
+      },
+      {
+        "tag": "h3",
+        "text": "Agentic AI and AI Agents for Leaders"
+      },
+      {
+        "tag": "h3",
+        "text": "Microsoft AI & ML Engineering"
+      },
+      {
+        "tag": "h3",
+        "text": "IBM Generative AI Engineering"
+      },
+      {
+        "tag": "h2",
+        "text": "New on Coursera"
+      },
+      {
+        "tag": "h3",
+        "text": "Microsoft AI Product Manager"
+      },
+      {
+        "tag": "h3",
+        "text": "DeepLearning.AI Data Analytics"
+      },
+      {
+        "tag": "h3",
+        "text": "UX Design Toolkit"
+      },
+      {
+        "tag": "h3",
+        "text": "Google Agile Essentials"
+      },
+      {
+        "tag": "h2",
+        "text": "Start learning with free courses"
+      },
+      {
+        "tag": "h3",
+        "text": "AI in National Security: Integrating Artificial Intelligence into Public Sector Missions"
+      },
+      {
+        "tag": "h3",
+        "text": "Open Source Models with Hugging Face"
+      },
+      {
+        "tag": "h3",
+        "text": "Introducing Multimodal Llama 3.2"
+      },
+      {
+        "tag": "h3",
+        "text": "Business Analytics with Excel: Elementary to Advanced"
+      },
+      {
+        "tag": "h2",
+        "text": "Get a head start on a degree today"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Engineering in Engineering Management"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Science in Data Science"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Science in Computer Science"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Business Administration (iMBA)"
+      },
+      {
+        "tag": "h2",
+        "text": "Find a top degree that fits your life"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Applied Data Science"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Data Science"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Science in Data Analytics Engineering"
+      },
+      {
+        "tag": "h3",
+        "text": "Master of Science in Management (iMSM)"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Coursera"
+      },
+      {
+        "tag": "h2",
+        "text": "Learner outcomes on Coursera"
+      },
+      {
+        "tag": "h2",
+        "text": "From the Coursera community"
+      },
+      {
+        "tag": "h3",
+        "text": "Kenia R."
+      },
+      {
+        "tag": "h3",
+        "text": "Ryan L."
+      },
+      {
+        "tag": "h3",
+        "text": "Vishal V."
+      },
+      {
+        "tag": "h2",
+        "text": "Drive your business forward by empowering your talent"
+      },
+      {
+        "tag": "h2",
+        "text": "Take the next step toward your personal and professional goals with Coursera."
+      }
+    ],
+    "h1_count": 1,
+    "h2_count": 13,
+    "h3_count": 35,
+    "links_internal_count": 138,
+    "links_external_count": 25,
+    "images_missing_alt_count": 57,
+    "text_ratio_percent": 1.3,
+    "word_count": 1330,
+    "visible_snippet": "Coursera | Degrees, Certificates, & Free Online Courses For Individuals For Businesses For Universities For Governments Explore Online Degrees Careers Log In Join for Free Be one of the first to exper…",
+    "first_paragraph": "Start, switch, or advance your career with more than 10,000 courses, Professional Certificates, and degrees from world-class universities and companies.",
+    "render_mode": "csr",
+    "structured_data_count": 111,
+    "schema_types": [
+      "Organization"
+    ],
+    "structured_data": {
+      "microdata": [],
+      "json-ld": [
+        {
+          "@context": "http://schema.org",
+          "@id": "https://www.coursera.org/#organization",
+          "@type": "Organization",
+          "name": "Coursera",
+          "url": "https://www.coursera.org/",
+          "logo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q499962",
+            "https://www.instagram.com/coursera/",
+            "https://www.youtube.com/user/coursera",
+            "https://twitter.com/coursera",
+            "https://www.linkedin.com/company/coursera",
+            "https://www.facebook.com/Coursera"
+          ]
+        }
+      ],
+      "rdfa": [
+        {
+          "@id": "_:N56b320e809e242718fa114f640c7d343",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#link"
+            }
+          ]
+        },
+        {
+          "@id": "_:N7094c030903843798976447f9fc4538c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N52d0600fa32e4ade8e91124573c30d12",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:Rtbadalalaila:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radio"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:R1lbadalalaila:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radio"
+            }
+          ]
+        },
+        {
+          "@id": "_:N93e879ccb5024723986d926f768bf644",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ncee6e8e94c2f4961b98348d044c25395",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N26552f19ce304ad299d26e21ae586938",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nfe4b901430254ff2aa9bc2cdb2929225",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N40a1b0c8540249dbaa87efedbf738628",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf53711d4146a4d7694d0820bdd1bd16c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc29bf1d820c1487bb3edb8dad5c68de8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0c5c704afba2484b9b7b240813a00c0c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb01c3c169c0b4dffa80433f5982e65bf",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:R15badalalaila:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radio"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2957bf0c7f55461aad243dccf4665005",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc3ce406ff77044c495bf2d41a4b46550",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4996313232014d93a71a42682bb0e612",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N12836b7a26014b6a8c88b653ff3c1988",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N46559a7ff8c64fabacabb9501caccc2a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:R1dbadalalaila:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radio"
+            }
+          ]
+        },
+        {
+          "@id": "_:N77b6b55f938c4ffba8b55670f5aec951",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3c8482f63200400382e21cbb9adb6cb0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tablist"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4db555fa5a3e42578eeb8f13c7c12ba6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndb258ab290d84d3db019c9a0ef7a35d6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2f983375cf2a4ab4a2c522f4d459f5b7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3416e1b81a4a4cecaf759ed75d13235f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:Rkmdalalaila:-value",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N44b23d658d13470391e0920a7a7f9a4c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf130a539ea894fb485e31130f1727147",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne997e41b24ed4230964b8342304ac884",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf1734a42d9564146ad7377df348f5366",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org",
+          "http://ogp.me/ns#description": [
+            {
+              "@value": "Learn new job skills in online courses from industry leaders like Google, IBM, & Meta. Advance your career with top degrees from Michigan, Penn, Imperial & more."
+            }
+          ],
+          "http://ogp.me/ns#image": [
+            {
+              "@value": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png"
+            }
+          ],
+          "http://ogp.me/ns#locale": [
+            {
+              "@value": "en_US"
+            }
+          ],
+          "http://ogp.me/ns#site_name": [
+            {
+              "@value": "Coursera"
+            }
+          ],
+          "http://ogp.me/ns#title": [
+            {
+              "@value": "Coursera | Degrees, Certificates, & Free Online Courses"
+            }
+          ],
+          "http://ogp.me/ns#type": [
+            {
+              "@value": "website"
+            }
+          ],
+          "http://ogp.me/ns#url": [
+            {
+              "@value": "https://www.coursera.org/"
+            }
+          ],
+          "http://ogp.me/ns/fb#admins": [
+            {
+              "@value": "727836538,4807654"
+            }
+          ],
+          "http://ogp.me/ns/fb#app_id": [
+            {
+              "@value": "823425307723964"
+            }
+          ],
+          "https://dev.twitter.com/cards#card": [
+            {
+              "@value": "summary"
+            }
+          ],
+          "https://dev.twitter.com/cards#description": [
+            {
+              "@value": "Learn new job skills in online courses from industry leaders like Google, IBM, & Meta. Advance your career with top degrees from Michigan, Penn, Imperial & more."
+            }
+          ],
+          "https://dev.twitter.com/cards#image": [
+            {
+              "@value": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png"
+            }
+          ],
+          "https://dev.twitter.com/cards#image:src": [
+            {
+              "@value": "https://s3.amazonaws.com/coursera/media/Grid_Coursera_Partners_updated.png"
+            }
+          ],
+          "https://dev.twitter.com/cards#title": [
+            {
+              "@value": "Coursera | Degrees, Certificates, & Free Online Courses"
+            }
+          ],
+          "qc:admins": [
+            {
+              "@value": "366737676376375235216727"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3f5201bee6a54887823a211473f571df",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd2d3ff1b565a466da213785aa1530774",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N87ac6243afff43a7b1889e6f8c7eedc3",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N84c3d3dbf6a4488d8e02a7f0ea889f02",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1ae7e0332cb2444c8946b443c2ff940a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#autocompleteARIASuggestions",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:R1adalalailaH1:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radiogroup"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8f29da6267b5497ca3ad16e46cd87849",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0cccd1597a0f4763899dde061103b681",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne2743676f61a4cda912f99dd06074323",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3a073000ad2f44318f782b7e2b478512",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria3008254602-:r10:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbdfacec7e947427e8fac50c00d1d51cc",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nba12e54db3e54afa88fe0bf4e0d11034",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#search-autocomplete-input",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#textbox"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf4797dbc31e74644b8462b6fa87d2adb",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4c13b624b7b9499c935827fabb69df5f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6a18eca5d2024fc0ad1b03d843059ab7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nade486d020e84e2f9048fbd3fcf1d6f7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb19772bf683d42e68cb157147c7a40cc",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N64f2622c6a0c499e8378436faaead5d9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3b80b6c463d84a79a70dab8ba7f598c7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc7176ac238914c1bac7fdcc9c5697eb9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndb0bc9ea7c3745819ffbfb4aaec95e61",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N5a8f3f4bd4dd46309fbf77cc1ac18f3c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria3008254602-:rv:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N45a447d9b8974b709ad019f8b6f4d58f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:Rlbadalalaila:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radio"
+            }
+          ]
+        },
+        {
+          "@id": "_:N55609c268ccc41089ef3cb99c5ca8c71",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N33fa3eef871c407eafb93fbc9d647576",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N280402bd5e10462f88e633516ca269bc",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8c43698e172449f197f4da2862c563e7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N879c7b5b6b784958b20b5e277565a038",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9c507e74baec4b11bae15a5620ebfe3b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N99e1992fa23f45b786fe56be62bee754",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria3008254602-:r11:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4bc3aa25a2e64fbba904b36df86ada3d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N7e4bfe1634014de980fa0f8e27202010",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nadf7b3b9365a45c599afb2aad7776d5d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbc3b8fb6697a45fc862d64f35f68873f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N06421ce3ab7242c787e03488363d1ef8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria3008254602-:ru:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9aed0fc918794985b0128a9c547d6d31",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb679380b1b834cbb807ea98fe09627bf",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N53d206e00ee74ca6b3083f195c05d4a1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nfc3c8080f5634437bb56a5b8294cb060",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N166a09fa45974148900b566254dab732",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N20e41f3cf307476ca9653e9c42c677e2",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf5fb009e72654c4abee449eae0ad00b3",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne58fd66786f44b3ba0e9c717af4cdab8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nde575c31b7be42f187c5fedc63c65863",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nad713bd233af43ad9a66ecc3520daf48",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nfa25fb40f28b433da208063888a46c0e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9c45a6adeac943d3b8bb6e6b938642c6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ncfb21f941d874732866143adac5e59ae",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N38d8d315103047cc886372626a3207ae",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N26e4e0fb1fec4bd2be1fdf77c85c3143",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N113a334b896240af9640c2eeeb7970d9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd77df5c5a9764b488ec0a9280822648c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4df25142ff124ee28d04acee67f59638",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N425ec9d50e4f46ce969a471f0ec3629b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3f71945f1095494db9e9079633a192a0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N51a1702b7d734f0e9fed17d819592bc8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb00282a92150472f8e9348216ed269f9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9403cae484464370bec1432b4df56667",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nae9d48645eac443d8e4f0396ddd151d2",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8bc38ebda80e4c049e819fe1976c0bf4",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0d38465a989541378cef1e13931e186c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9fcfc54339894a5e8e889bbeeb1161db",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N443240af8f724b1db7ff722ad9c2d4e5",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbf767e7a00e04fcea530279a79f8d078",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6627432657274bbebbf05519ae67974c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8d8b7064191e44208bdde24a3b65357a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.coursera.org#cds-react-aria-:Rdbadalalaila:",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#radio"
+            }
+          ]
+        },
+        {
+          "@id": "_:N025e7e30002149d98984c956c6846490",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nad53d10cf7994b978e39d6f50a399f93",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9476212c04c04168b6b346ded922ed36",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        }
+      ]
+    },
+    "nav_links": [
+      "ForIndividuals",
+      "ForBusinesses",
+      "ForUniversities",
+      "ForGovernments",
+      "Online Degrees",
+      "Careers",
+      "Log In",
+      "Join for Free"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "GET",
+        "inputs": [
+          "search-autocomplete-input"
+        ]
+      }
+    ]
+  },
+  "robots": {
+    "status": 200,
+    "sitemaps": [
+      "https://www.coursera.org/sitemap.xml"
+    ],
+    "raw": "User-agent: *\nAllow: /api/utilities/v1/imageproxy\nDisallow: /maestro/api/\nDisallow: /api/\nDisallow: /maestro/\nDisallow: /ui/\nDisallow: /signature/voucher/\nDisallow: /account/\nDisallow: /acclaimbadge/\nDisallow: /voucher/\nDisallow: /search\nDisallow: /ent-website/\nDisallow: /learn-perf/\nDisallow: /specializations-perf/\nDisallow: /professional-certificates-perf/\nDisallow: /learn-noperf/\nDisallow: /specializations-noperf/\nDisallow: /professional-certificates-noperf/\nDisallow: /career-academy/programs/\nDisallow: /business/xmlrpc.php\nDisallow: /business/wp-content/uploads/ \nSitemap: https://www.coursera.org/sitemap.xml\n\n\nUser-agent: CCBot\nDisallow: /lecture/\n\nUser-agent: GPTBot\nDisallow: /lecture/\n\nUser-agent: ClaudeBot\nDisallow: /lecture/\n\nUser-agent: MistralAI-User\nDisallow: /lecture/\n\nUser-agent: Google-Extended\nDisallow: /lecture/\n\nUser-agent: PerplexityBot\nDisallow: /lecture/\n\nUser-agent: LinkedInBot\nAllow: /account/accomplishments/\n\nUser-agent: Twitterbot\nAllow: /account/accomplishments/\n\nUser-agent: meta-externalagent\nDisallow: /"
+  },
+  "security": {
+    "hsts": true,
+    "csp": false,
+    "other_security_headers": {
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "tech_stack": [
+    "Contentful",
+    "Google Sign-in",
+    "React"
+  ],
+  "perf": {
+    "lcp": 2.2012530000000003,
+    "inp": 10400.48075,
+    "cls": 0.018577787338421407
+  }
+}

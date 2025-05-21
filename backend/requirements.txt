@@ -1,0 +1,12 @@
+playwright
+beautifulsoup4
+extruct
+requests
+tldextract
+python-Wappalyzer
+lxml
+fastapi
+uvicorn[standard]
+matplotlib
+jinja2
+markdown

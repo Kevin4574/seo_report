@@ -1,0 +1,835 @@
+{
+  "url": "https://www.maxai.co/",
+  "status_code": 200,
+  "response_time_ms": 18593.1,
+  "ttfb_ms": null,
+  "headers": {
+    "content-type": "text/html",
+    "date": "Fri, 16 May 2025 06:42:22 GMT",
+    "server": "AmazonS3",
+    "etag": "W/\"dc55b381874ba37d1700f3baabb6bb62\"",
+    "last-modified": "Fri, 16 May 2025 06:42:07 GMT",
+    "cache-control": "public, max-age=0, s-maxage=31536000",
+    "content-encoding": "br",
+    "vary": "Accept-Encoding",
+    "x-cache": "Hit from cloudfront",
+    "via": "1.1 b6ea6ca61ea97da097b9b6998cef803a.cloudfront.net (CloudFront)",
+    "x-amz-cf-pop": "SIN52-P1",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-amz-cf-id": "KB0LM5aNLgzITXtp-gYzG2xoKfxLFRuaJqRg3LIwnYdaNLMl6_b8Pw==",
+    "age": "345976",
+    "x-firefox-spdy": "h2"
+  },
+  "analysis": {
+    "title": "MaxAI: Chat with any webpage. Read faster. Write better.",
+    "meta_description": "Summarize, search, explain, analyze, translate, write, and more. Save hours every day. Powered by DeepSeek, o4, GPT-4.1, Claude-3.7, and Gemini-2.5.",
+    "metas": {
+      "viewport": "initial-scale=1.0, width=device-width",
+      "description": "Summarize, search, explain, analyze, translate, write, and more. Save hours every day. Powered by DeepSeek, o4, GPT-4.1, Claude-3.7, and Gemini-2.5.",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@MaxAI_HQ",
+      "twitter:creator": "@MaxAI_HQ",
+      "og:title": "MaxAI: Chat with any webpage. Read faster. Write better.",
+      "og:description": "Summarize, search, explain, analyze, translate, write, and more. Save hours every day. Powered by DeepSeek, o4, GPT-4.1, Claude-3.7, and Gemini-2.5.",
+      "og:url": "https://www.maxai.co/",
+      "og:type": "article",
+      "og:image": "https://www.maxai.co/social.png",
+      "og:site_name": "MaxAI.me",
+      "robots": "all",
+      "next-head-count": "29"
+    },
+    "canonical": true,
+    "hreflang_count": 7,
+    "social_tags_count": 9,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Chat with any webpage.Read faster. Write better."
+      },
+      {
+        "tag": "h2",
+        "text": "How it works"
+      },
+      {
+        "tag": "h2",
+        "text": "Trusted by businesses and universities across the world"
+      },
+      {
+        "tag": "h2",
+        "text": "Get instant insights from any webpage at a glance"
+      },
+      {
+        "tag": "h2",
+        "text": "Summarize YouTube videos. Save time on long videos."
+      },
+      {
+        "tag": "h2",
+        "text": "Chat with any PDF. Get answers. Understand research."
+      },
+      {
+        "tag": "h2",
+        "text": "Analyze image. Extract text. Solve math problems."
+      },
+      {
+        "tag": "h2",
+        "text": "See the source, not just the answer"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore more features in MaxAI"
+      },
+      {
+        "tag": "h3",
+        "text": "Chat with top AI"
+      },
+      {
+        "tag": "h3",
+        "text": "Search the web"
+      },
+      {
+        "tag": "h3",
+        "text": "Translate page"
+      },
+      {
+        "tag": "h3",
+        "text": "Understand anything instantly"
+      },
+      {
+        "tag": "h3",
+        "text": "Perfect your writing"
+      },
+      {
+        "tag": "h3",
+        "text": "Reply to emails in seconds"
+      },
+      {
+        "tag": "h3",
+        "text": "Write with AI"
+      },
+      {
+        "tag": "h3",
+        "text": "Create images"
+      },
+      {
+        "tag": "h2",
+        "text": "They love MaxAI"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Get more done in less time"
+      }
+    ],
+    "h1_count": 1,
+    "h2_count": 10,
+    "h3_count": 16,
+    "links_internal_count": 81,
+    "links_external_count": 12,
+    "images_missing_alt_count": 0,
+    "text_ratio_percent": 1.76,
+    "word_count": 864,
+    "visible_snippet": "MaxAI: Chat with any webpage. Read faster. Write better. MaxAI English (US) Products Pricing Sign in Add to Chrome — It's free Add to Chrome English (US) Choose Your Country or Region ​ ​ English (US)…",
+    "first_paragraph": "MaxAI",
+    "render_mode": "csr",
+    "structured_data_count": 77,
+    "schema_types": [],
+    "structured_data": {
+      "microdata": [],
+      "json-ld": [],
+      "rdfa": [
+        {
+          "@id": "_:N20f1e87e003d4c748c57e3a0570f58c7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9f51ce3042bf47af9fd6af0f07270256",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N68dc187c9f684b63aa654bfc4303190d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6bef9a88af4f4f2785175a5c3f9e741d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb53e916ba1d54dc9b606162996ab3dd5",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N69d5f91eefd6404186ae40abbb197c13",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N073b05e497334fcb9fcc7c5f93a299f1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N5a3eeb5b3ed14e47a670813212926720",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nca22fd2310124f33b526152b608f7463",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6778df616cbc4f01b60f94fab340c24b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndbfe958feff84093a5fdbaf8688a5378",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na4f80a570d08447d816b7019f57c0892",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbf4bad4090e64de0aa92baee5e4d03e1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N39114d87832e4262b4f4cfa12307a053",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ncb2cfd423c74436a94c7f771a23ebc60",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N385a0867938f427bad7af51287745ec7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nce5bde156f6f48df84e12a0bda33a2fe",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8583aefcb4a3484cba0481d81ed1bb04",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ncf0d3ec9e20946e88baee2e3957ca3c8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N00081f496b1844ab9a75e9ef2e96fd8e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6323d021769c41d98df0b447c6a9b23c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N03c5e4b0e1474f0eb2919a52764db74f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N143ebbaa7a0f462e93c2708d2168b2a0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2ebf58d8fb3c4014832f2734f2f934fe",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3a17191965914a38a156bcccdceadd00",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9203d827bdba4545b8a3aeb250a2bd90",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc10200ad36544507b7ed84ed9b283fbf",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N670d314ece8e4b2aa521976e91b10866",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3f6ff29a1330469e9d0ba004e5b3bce6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc7a2e4889b554dde8bbcfda24e9eeee8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.maxai.co#__next-route-announcer__",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#alert"
+            }
+          ]
+        },
+        {
+          "@id": "_:N7b0e020a959544d3b418f2faa98de851",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N7baa3933cfd9477abcb7b5564ed37d27",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc6e642d00b32481abacfd4e541917b3b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N181a8aeca4e445abae6aa492bc157eb9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N38260c1b60f947c9b4adf3cb00733253",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0a35e195f3834eb195b7df4501b87d5c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne4ad771ee40b48bca0304d5b25a0ef09",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N08d1e683d4f14a63a4c37e8a53c245fd",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N864df0ea69804938b31b96f557b3cd5e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ncffe606b806e4b07a7e6badbdf61afef",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N070f0339bc10441790bfb45dbc2d21fe",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N646d0f7fc1d94cc9b918d7c81febfe64",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc3eb4b8133574abe83ee3ffef688f314",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N7f459947f92b4b7e906ef26e67f2c792",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N776d66fff2cb44debbeaaf43707be162",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0ae25248065a4649843d20c8e9c4b2e1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N39fc892c130442f586b5001aeba6aae0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0106237f13364bd79d6ffc25ba4865b0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ncb1c7160bf224bae848b6017a0df6505",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N620c0fca67a44bb2be4495086c3b3425",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N41b995aa4a704515a735ec0b40dfd251",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8e8a79044f7a4006a4ece514d75ca6fd",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb1cb223186ea430391ec3017b43b6840",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8e0b46893bdf4cd393d8ba2951df4e32",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbf94f404d8c54d2986081c7d9f2a6116",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N74214840a85a408781465a68c79c6b6f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0915946e57c34041b919b5c55c35318c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N403f80c7d28e44b2808709db428be6f6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na561f5c98ba3445aa5ce6a990d045b8e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N15d3f295f4804f53b5cf1a8c70985424",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc470782ca74048e4ada6ea94a8caa4e0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2f49ae98ae284de8a380f34aad8dd7c9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N20959510a18546fda67e2731f5ca4996",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbcf7d385c9d54311b7af806ae09dfc9b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3565a0e9523d4b719b04c86dbfb76ea0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2c360cec79784e1490556461c0fe5141",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nadb67c83193d49a892ccd11bacbb56c6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd73799dc52ab48d69281e0375d4c25ad",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#menuitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N5f51d3e57ed3485687dbb6cac22a9856",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.maxai.co",
+          "http://ogp.me/ns#description": [
+            {
+              "@value": "Summarize, search, explain, analyze, translate, write, and more. Save hours every day. Powered by DeepSeek, o4, GPT-4.1, Claude-3.7, and Gemini-2.5."
+            }
+          ],
+          "http://ogp.me/ns#image": [
+            {
+              "@value": "https://www.maxai.co/social.png"
+            }
+          ],
+          "http://ogp.me/ns#site_name": [
+            {
+              "@value": "MaxAI.me"
+            }
+          ],
+          "http://ogp.me/ns#title": [
+            {
+              "@value": "MaxAI: Chat with any webpage. Read faster. Write better."
+            }
+          ],
+          "http://ogp.me/ns#type": [
+            {
+              "@value": "article"
+            }
+          ],
+          "http://ogp.me/ns#url": [
+            {
+              "@value": "https://www.maxai.co/"
+            }
+          ]
+        },
+        {
+          "@id": "_:N45bddc6c1a754bee9a9cc4cf6e34b83c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndbe9b2c5b30546ad9e797e52411ba791",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbf36963c13f34dae9d58f5a46992e9b8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf78d1f99a2844969972db6e83f2bb30d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd78bedda040d4c2baef3d8e35c2b09df",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndf70eb2af6da48f697e319234375efcf",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        }
+      ]
+    },
+    "nav_links": [],
+    "forms": []
+  },
+  "robots": {
+    "status": 200,
+    "sitemaps": [
+      "https://www.maxai.co/sitemap.xml"
+    ],
+    "raw": "User-agent: *\nAllow: /\nDisallow: /partners/\nDisallow: /docs/release-notes\nDisallow: /release-notes\nDisallow: /*/release-notes\nDisallow: /share\nDisallow: /*/share\nDisallow: /survey/\nDisallow: /*/survey/\nDisallow: /embed\nDisallow: /api\nDisallow: /dogfood\nDisallow: /docs\nDisallow: /account\nDisallow: /*/account/*\nDisallow: /learning-center\nDisallow: /upgrade\nDisallow: /onboarding\nDisallow: /backfrompayment\nDisallow: /ai-tools/ai-chat/\nDisallow: /ai-tools/ai-search/\nDisallow: /ai-translate-tools/*\nDisallow: /*/ai-translate-tools/*\n\nSitemap: https://www.maxai.co/sitemap.xml"
+  },
+  "security": {
+    "hsts": false,
+    "csp": false,
+    "other_security_headers": {}
+  },
+  "tech_stack": [],
+  "perf": {
+    "lcp": 3.3364920000000002,
+    "inp": 8368.192,
+    "cls": 0.0016553871080053496
+  }
+}

@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: seo-backend
+    restart: unless-stopped
+    env_file:
+      - ./backend/.env              # 注入 DeepSeek KEY 等
+    environment:
+      - SKIP_LH=1
+      - API_BASE=http://localhost:8000
+      - FRONTEND_ORIGIN=http://localhost:3000
+    volumes:
+      - reports-data:/app/reports   # 挂载报告目录
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      args:                          # ⬅️ 把编译期常量传进去
+        NEXT_PUBLIC_API_BASE_URL: "http://localhost:8000"
+    container_name: seo-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  reports-data:

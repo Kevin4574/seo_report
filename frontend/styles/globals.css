@@ -1,0 +1,76 @@
+/* frontend/styles/globals.css */
+
+/* 1) 引入 Tailwind 指令 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2) 引入 Inter 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* 3) 全局基础样式 */
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+/* 4) 背景渐变 & 文字色 */
+body {
+  @apply bg-gradient-to-tr from-[#0d0d0d] via-[#1a1a1a] to-[#0d0d0d]
+         text-gray-100;
+}
+
+/* 5) 玻璃拟态工具类（现有，可保留） */
+.glass {
+  @apply bg-white/5 backdrop-blur-md 
+         border border-white/10 
+         rounded-xl 
+         shadow-inner shadow-black/40;
+}
+
+/* 6) Logo 光环效果（给 .logo-wrapper 用） */
+.logo-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-wrapper::before {
+  content: "";
+  @apply absolute -inset-1 rounded-full
+         bg-gradient-to-tr
+           from-teal-500 via-indigo-500 to-transparent
+         blur-xl animate-pulse;
+  z-index: -1;
+}
+
+/* 7) Markdown 细节（保持现有） */
+.prose a       { @apply text-teal-400 hover:underline; }
+.prose code    { @apply bg-white/10 px-1 py-0.5 rounded; }
+.prose p, .prose li {
+  @apply leading-relaxed;
+  margin-block: 0.5rem 1rem;
+}
+
+/* frontend/styles/globals.css */
+
+/* 已有 @tailwindcss/typography 插件 */
+@layer components {
+  .prose a {
+    @apply text-teal-400 hover:underline;
+  }
+  .prose code {
+    @apply bg-white/10 px-1 py-0.5 rounded;
+  }
+}
+
+/* 白底卡片基样式 */
+.report-wrapper {
+  @apply bg-white text-gray-900 shadow-xl rounded-xl p-8;
+}
+
+/* 报告内部细节：标题 / 代码块 / 图片 */
+.report-wrapper :is(h1,h2,h3,h4,h5,h6) { @apply text-gray-900; }
+.report-wrapper code                   { @apply bg-gray-100 px-1 py-0.5 rounded; }
+.report-wrapper img                    { @apply mx-auto; }

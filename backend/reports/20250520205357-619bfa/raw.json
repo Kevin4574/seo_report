@@ -1,0 +1,1648 @@
+{
+  "url": "https://www.apple.com/",
+  "status_code": 200,
+  "response_time_ms": 8843.0,
+  "ttfb_ms": null,
+  "headers": {
+    "server": "Apple",
+    "content-type": "text/html; charset=utf-8",
+    "set-cookie": "geo=CN; path=/; domain=.apple.com",
+    "x-frame-options": "SAMEORIGIN",
+    "vary": "Accept-Encoding",
+    "content-security-policy": "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "content-encoding": "gzip",
+    "cache-control": "max-age=115",
+    "expires": "Tue, 20 May 2025 12:55:57 GMT",
+    "date": "Tue, 20 May 2025 12:54:02 GMT",
+    "content-length": "40495",
+    "x-firefox-spdy": "h2"
+  },
+  "analysis": {
+    "title": "Apple",
+    "meta_description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+    "metas": {
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "analytics-track": "Apple - Index/Tab",
+      "analytics-s-channel": "homepage",
+      "analytics-s-bucket-0": "applestoreww",
+      "analytics-s-bucket-1": "applestoreww",
+      "analytics-s-bucket-2": "applestoreww",
+      "description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+      "og:title": "Apple",
+      "og:description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+      "og:url": "https://www.apple.com/",
+      "og:locale": "en_US",
+      "og:image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180743",
+      "og:type": "website",
+      "og:site_name": "Apple",
+      "globalnav-store-key": "SFX9YPYY9PPXCU9KH"
+    },
+    "canonical": true,
+    "hreflang_count": 137,
+    "social_tags_count": 7,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Apple"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop"
+      },
+      {
+        "tag": "h2",
+        "text": "Quick Links"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop Special Stores"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Mac"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop Mac"
+      },
+      {
+        "tag": "h2",
+        "text": "More from Mac"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore iPad"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop iPad"
+      },
+      {
+        "tag": "h2",
+        "text": "More from iPad"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "More from iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Watch"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop Watch"
+      },
+      {
+        "tag": "h2",
+        "text": "More from Watch"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Vision"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop Vision"
+      },
+      {
+        "tag": "h2",
+        "text": "More from Vision"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore AirPods"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop AirPods"
+      },
+      {
+        "tag": "h2",
+        "text": "More from AirPods"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore TV & Home"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop TV & Home"
+      },
+      {
+        "tag": "h2",
+        "text": "More from TV & Home"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Entertainment"
+      },
+      {
+        "tag": "h2",
+        "text": "Support"
+      },
+      {
+        "tag": "h2",
+        "text": "Shop Accessories"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Accessories"
+      },
+      {
+        "tag": "h2",
+        "text": "Explore Support"
+      },
+      {
+        "tag": "h2",
+        "text": "Get Help"
+      },
+      {
+        "tag": "h2",
+        "text": "Helpful Topics"
+      },
+      {
+        "tag": "h2",
+        "text": "Quick Links"
+      },
+      {
+        "tag": "h2",
+        "text": "Apple Watch Series 10"
+      },
+      {
+        "tag": "h2",
+        "text": "iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "MacBook Air"
+      },
+      {
+        "tag": "h3",
+        "text": "WWDC 25"
+      },
+      {
+        "tag": "h3",
+        "text": "iPad Air"
+      },
+      {
+        "tag": "h3",
+        "text": "AirPods Pro 2"
+      },
+      {
+        "tag": "h3",
+        "text": "College Students"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple Trade In"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple Card"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple TV+"
+      },
+      {
+        "tag": "h3",
+        "text": "FAM Gallery"
+      },
+      {
+        "tag": "h2",
+        "text": "Apple Footer"
+      },
+      {
+        "tag": "h3",
+        "text": "Shop and LearnShop and Learn"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple WalletApple Wallet"
+      },
+      {
+        "tag": "h3",
+        "text": "AccountAccount"
+      },
+      {
+        "tag": "h3",
+        "text": "EntertainmentEntertainment"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple StoreApple Store"
+      },
+      {
+        "tag": "h3",
+        "text": "For BusinessFor Business"
+      },
+      {
+        "tag": "h3",
+        "text": "For EducationFor Education"
+      },
+      {
+        "tag": "h3",
+        "text": "For HealthcareFor Healthcare"
+      },
+      {
+        "tag": "h3",
+        "text": "For GovernmentFor Government"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple ValuesApple Values"
+      },
+      {
+        "tag": "h3",
+        "text": "About AppleAbout Apple"
+      }
+    ],
+    "h1_count": 1,
+    "h2_count": 36,
+    "h3_count": 19,
+    "links_internal_count": 273,
+    "links_external_count": 59,
+    "images_missing_alt_count": 0,
+    "text_ratio_percent": 3.28,
+    "word_count": 1686,
+    "visible_snippet": "Apple Apple Apple Store Shop Shop the Latest Mac iPad iPhone Apple Watch Apple Vision Pro Accessories Quick Links Find a Store Order Status Apple Trade In Financing Personal Setup Shop Special Stores …",
+    "first_paragraph": "Thinstant classic.",
+    "render_mode": "csr",
+    "structured_data_count": 129,
+    "schema_types": [
+      "Organization",
+      "WebPage",
+      "WebSite"
+    ],
+    "structured_data": {
+      "microdata": [],
+      "json-ld": [
+        {
+          "@context": "http://schema.org",
+          "@id": "https://www.apple.com/#organization",
+          "@type": "Organization",
+          "name": "Apple",
+          "url": "https://www.apple.com/",
+          "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202110180743",
+          "subOrganization": {
+            "@type": "Organization",
+            "name": "Apple Support",
+            "url": "https://support.apple.com",
+            "@id": "https://support.apple.com/#organization"
+          },
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-800-692-7753",
+              "contactType": "sales",
+              "areaServed": "US"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-800-275-2273",
+              "contactType": "technical support",
+              "areaServed": "US",
+              "availableLanguage": [
+                "EN",
+                "ES"
+              ]
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-800-275-2273",
+              "contactType": "customer support",
+              "areaServed": "US",
+              "availableLanguage": [
+                "EN",
+                "ES"
+              ]
+            }
+          ],
+          "sameAs": [
+            "http://www.wikidata.org/entity/Q312",
+            "https://www.youtube.com/user/Apple",
+            "https://www.linkedin.com/company/apple",
+            "https://www.facebook.com/Apple",
+            "https://www.twitter.com/Apple"
+          ]
+        },
+        {
+          "@context": "http://schema.org",
+          "@id": "https://www.apple.com/#website",
+          "@type": "WebSite",
+          "url": "https://www.apple.com/",
+          "name": "Apple",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.apple.com/us/search/{search_term_string}?src=mc_google",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "http://schema.org",
+          "@id": "https://www.apple.com/#webpage",
+          "@type": "WebPage",
+          "url": "https://www.apple.com/",
+          "name": "Apple"
+        }
+      ],
+      "rdfa": [
+        {
+          "@id": "_:N6855eaa4a8b445e4972c50f3b34491d7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne374c66020c84c38a120f45385206428",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N752fa58a78d54d40a975693370901ceb",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-8-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6885841c88eb45c6a75484d29e62b24f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N76f08998093d43c6aab23b35e4e7e616",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-responsibility",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbda308dd56a64c7e88edef79d9176261",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-5",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6c3ac88eab794717a0a3d8c3068bee33",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N14e302d217b544a0a8698d84c137363a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N96d6ca22f15649ec90dfd28568cc67e8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N853b1a3757f94d2199b48bac16895217",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf1b2259f026d4f3398fa9c7ff6414c1d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N81fecdb661e8444185b807e8eecccf2f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbee1d716d6a648339bc1dc6df110bb44",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N965060ec36c84c9f90d7060a040a2717",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-10-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-storeservices",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-government",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-1-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-entertainment",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3b801d671f094305be269370a5149ac9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9af8bcbd70d54f6fb8fe63ae00c5a584",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1551b8806f3f410ea90c0aebe8c5c62a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N5b0d7b31a94f486882fca7ff5e4c4d97",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N581769f11be541e698d4720ea55171d7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4cd7604c5ed9467baf348f0cadbc5c1a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-5-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9d1633246d894fa2b9b4bdb89e99f062",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4ae63da9b02d4fd299191bca524b4de6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-business",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nec87465508014a46bb0943b6ac25a1fe",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2efbf82e81fc4b1ba3f2b7175c265489",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc5035bffd1fc4ca79eb1265943e1ae1b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na3971b9f1be44770835f9f5b5fdb005b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N846fc738b22e44b18571891fb3e5498a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbb17df6b152a4a8d95d2ed95dc02da7e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-3",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb643106250c04dfa93bd40f879344fe9",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N5a4fcfd6c88149e9b23afce30376924f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N46de921479b14bb3a687d988bffc4aee",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N609fde4118b744f8bac893adaedc4727",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4f4707ef6a17440da20028f27112b7b8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-7-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nda36bcbbd5b54e8f8f6e6ad2054bbbf3",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-education",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8a74d2b0fbfe470a818940e8a1ef5285",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-9-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nda48368b4f9d4394b090584ba2a31f44",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Naedfb5cf8e344884854a1eed9fa04aa1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9ed7439058cd428db3e82174e7906d69",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-products",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N76988f0923c148eb844bd95cd2f4d66e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-accounts",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6f4566115721459f95059ce215f2e815",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N400b7d79049c48ee8929bbf7ff82228d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ned17f43c5edf4e07b8211bff522c1458",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9219d188b6394bc1a57e3e49d7861f65",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-about",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-4",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N953c9ce4f39644359728d8d228f86655",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N5fe3fcbacb9f4d638507423a80b43633",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne338b1b1020a44f68f0b1ba06eaad3e0",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0d7ef40c513b46358df46db1b39cc66b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-2-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N04eea51a9acd4728a2befb56c1fe926d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-10",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nac1c476b91d946fe89f4f5862d543b3c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd258193c17364a999ea1ea8508edad3e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1b7e564445964eb8b896b7f9ed5f2cca",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N37932696cefb4985b65642c4a4a526d7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nba6ea15d699a461d99f4a16f17e44be7",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2c689c61ac91420a89a747146e60881e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nae849fdb45b141be9f6c1b9e170b6e58",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N364d905e0c0c43e786da71d869724983",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2e6c01b39ed84404a13350888ba00368",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nedc2998cf27c4097addd7c53cfb9736b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N7440504350a14761a19719c47d63f85d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0c5e5cbffb1e4a7c9c3b04693ef13abb",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1d20091b899842288d88ec4c369c3d5b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbd1227f8eaf745d5abcc2d92d64c6c60",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-6-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N534fc9f4aba6486dbaf38c8bf15f343d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndbd93c19ce7442d9b71ea5713f9669f1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N971effaae86648ea980b1edaa2b39c7b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tablist"
+            }
+          ]
+        },
+        {
+          "@id": "_:N60a69884b9594180b2ee27ba0c221bfd",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ned14e8907247497992e369baa2633775",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#globalnav-menubutton-link-search",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nbfe85bb04d7348649b2c503020a4d558",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N840c2869d20240b79aec8e816b20a1ce",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na9c9daab372f4898bfb3c1adc6cd2f32",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-4-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-3-trigger",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8e1f7431bc5744faa979657921472e27",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4fe580536d3b4ac5acab373be5bdb912",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#status"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6dca0bf5963447fd816c676bc278363a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com",
+          "http://ogp.me/ns#description": [
+            {
+              "@language": "en-us",
+              "@value": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support."
+            }
+          ],
+          "http://ogp.me/ns#image": [
+            {
+              "@language": "en-us",
+              "@value": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180743"
+            }
+          ],
+          "http://ogp.me/ns#locale": [
+            {
+              "@language": "en-us",
+              "@value": "en_US"
+            }
+          ],
+          "http://ogp.me/ns#site_name": [
+            {
+              "@language": "en-us",
+              "@value": "Apple"
+            }
+          ],
+          "http://ogp.me/ns#title": [
+            {
+              "@language": "en-us",
+              "@value": "Apple"
+            }
+          ],
+          "http://ogp.me/ns#type": [
+            {
+              "@language": "en-us",
+              "@value": "website"
+            }
+          ],
+          "http://ogp.me/ns#url": [
+            {
+              "@language": "en-us",
+              "@value": "https://www.apple.com/"
+            }
+          ]
+        },
+        {
+          "@id": "_:N6525d8141b0d44e39f0afe7943b3689d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8012e7267d664a969ad01bb18035adae",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne77e368aca1c405d82a5a01e8089a5e3",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#presentation"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na237d03ae0fa41c4b91a5daf2f403f42",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-applewallet",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#footer-directory-column-section-healthcare",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndfe8727a71ef4d658b03753442fadc39",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1f509fb8f6244a048617743aff7ab0d2",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N33334509530842ee93c56e91734f3568",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1c46819b9bd24ba9ad1f2073f934a3bb",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N978c1eddc39a43d1ae0d29d0ee9a2aa2",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf3c27de867164e8a86f11f595cfc3c0b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#tv-plus-gallery-item-2",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+            }
+          ]
+        },
+        {
+          "@id": "_:N94452c885ed54b01ad2d6884b0c03f33",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#globalnav-menubutton-link-bag",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com#ac-globalfooter",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+            }
+          ]
+        },
+        {
+          "@id": "_:N93476a635aca42bc922d22ade344742d",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nde8c1c70be0342f28720de6db524560b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Neb36a592d81d4fbc874d5320ada16e21",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb3ebffeeee1e4bf3af72282b97f0ae97",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N21721ad8177145f5979545c4a65c3e33",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb406b0b3bfe94ba38b9225f213c57542",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        }
+      ]
+    },
+    "nav_links": [
+      "Apple",
+      "Store",
+      "Shop the Latest",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Apple Watch",
+      "Apple Vision Pro",
+      "Accessories",
+      "Find a Store",
+      "Order Status",
+      "Apple Trade In",
+      "Financing",
+      "Personal Setup",
+      "Certified Refurbished",
+      "Education",
+      "Business",
+      "Veterans and Military",
+      "Government",
+      "Explore All Mac",
+      "MacBook Air",
+      "MacBook Pro",
+      "iMac",
+      "Mac mini",
+      "Mac Studio",
+      "Mac Pro",
+      "Displays",
+      "Compare Mac",
+      "Switch from PC to Mac",
+      "Shop Mac",
+      "Help Me Choose",
+      "Mac Accessories",
+      "Mac Support",
+      "AppleCare+ for Mac",
+      "macOS Sequoia",
+      "Apple Intelligence",
+      "Apps by Apple",
+      "Continuity",
+      "iCloud+",
+      "Mac for Business",
+      "Explore All iPad",
+      "iPad Pro",
+      "iPad Air",
+      "iPad mini",
+      "Apple Pencil",
+      "Keyboards",
+      "Compare iPad",
+      "Why iPad",
+      "Shop iPad",
+      "iPad Accessories",
+      "iPad Support",
+      "AppleCare+ for iPad",
+      "iPadOS 18",
+      "Explore All iPhone",
+      "iPhone 16 Pro",
+      "iPhone 16",
+      "iPhone 16e",
+      "iPhone 15",
+      "Compare iPhone",
+      "Switch from Android",
+      "Shop iPhone",
+      "iPhone Accessories",
+      "Carrier Deals at Apple",
+      "iPhone Support",
+      "AppleCare+ for iPhone",
+      "iOS 18",
+      "iPhone Privacy",
+      "Wallet, Pay, Card",
+      "Siri",
+      "Watch",
+      "Explore All Apple Watch",
+      "Apple Watch Series 10",
+      "Apple Watch Ultra 2",
+      "Apple Watch SE",
+      "Apple Watch Nike",
+      "Apple Watch Hermès",
+      "Compare Watch",
+      "Why Apple Watch",
+      "Shop Apple Watch",
+      "Apple Watch Studio",
+      "Apple Watch Bands",
+      "Apple Watch Accessories",
+      "Apple Watch Support",
+      "AppleCare+",
+      "watchOS 11",
+      "Apple Watch For Your Kids",
+      "Apple Fitness+",
+      "Vision",
+      "Explore Apple Vision Pro",
+      "Guided Tour",
+      "Tech Specs",
+      "Shop Apple Vision Pro",
+      "Apple Vision Pro Accessories",
+      "Book a Demo",
+      "Apple Vision Pro Support",
+      "visionOS 2",
+      "AirPods",
+      "Explore All AirPods",
+      "AirPods 4",
+      "AirPods Pro 2",
+      "AirPods Max",
+      "Compare AirPods",
+      "Shop AirPods",
+      "AirPods Accessories",
+      "AirPods Support",
+      "AppleCare+ for Headphones",
+      "Hearing Health",
+      "Apple Music",
+      "TV & Home",
+      "Explore TV & Home",
+      "Apple TV 4K",
+      "HomePod",
+      "HomePod mini",
+      "Shop Apple TV 4K",
+      "Shop HomePod",
+      "Shop HomePod mini",
+      "Shop Siri Remote",
+      "TV & Home Accessories",
+      "Apple TV Support",
+      "HomePod Support",
+      "Apple TV app",
+      "Apple TV+",
+      "Home app",
+      "AirPlay",
+      "Entertainment",
+      "Explore Entertainment",
+      "Apple One",
+      "Apple Arcade",
+      "Apple News+",
+      "Apple Podcasts",
+      "Apple Books",
+      "App Store",
+      "Apple TV+ Support",
+      "Apple Music Support",
+      "Shop All Accessories",
+      "Made by Apple",
+      "Beats by Dr. Dre",
+      "AirTag",
+      "Assistive Technologies",
+      "Support",
+      "Music",
+      "TV",
+      "Explore Support",
+      "Community",
+      "Check Coverage",
+      "Repair",
+      "Get AppleCare+",
+      "Apple Account and Password",
+      "Billing & Subscriptions",
+      "Accessibility",
+      "Apple Intelligence",
+      "Gift Cards",
+      "Wallet",
+      "Apple Card",
+      "Apple Pay",
+      "Apple Cash",
+      "Manage Your Apple Account",
+      "Apple Store Account",
+      "iCloud.com",
+      "Apple One",
+      "Apple TV+",
+      "Apple Music",
+      "Apple Arcade",
+      "Apple Fitness+",
+      "Apple News+",
+      "Apple Books",
+      "App Store",
+      "Genius Bar",
+      "Today at Apple",
+      "Group Reservations",
+      "Apple Camp",
+      "Apple Store App",
+      "Apple Trade In",
+      "Shopping Help",
+      "Apple and Business",
+      "Shop for Business",
+      "Apple and Education",
+      "Shop for K-12",
+      "Shop for College",
+      "Apple in Healthcare",
+      "Mac in Healthcare",
+      "Health on Apple Watch",
+      "Health Records on iPhone and iPad",
+      "Shop for Government",
+      "Shop for Veterans and Military",
+      "Environment",
+      "Inclusion and Diversity",
+      "Privacy",
+      "Racial Equity and Justice",
+      "Supply Chain",
+      "Newsroom",
+      "Apple Leadership",
+      "Career Opportunities",
+      "Investors",
+      "Ethics & Compliance",
+      "Events",
+      "Contact Apple"
+    ],
+    "forms": [
+      {
+        "action": "/us/search",
+        "method": "GET",
+        "inputs": [
+          "src"
+        ]
+      }
+    ]
+  },
+  "robots": {
+    "status": 200,
+    "sitemaps": [
+      "https://www.apple.com/shop/sitemap.xml",
+      "https://www.apple.com/autopush/sitemap/sitemap-index.xml",
+      "https://www.apple.com/newsroom/sitemap.xml",
+      "https://www.apple.com/retail/sitemap/sitemap.xml",
+      "https://www.apple.com/today/sitemap-index.xml"
+    ],
+    "raw": "# robots.txt for https://www.apple.com/\n\nUser-agent: *\nDisallow: /*shop/browse/overlay/*\nDisallow: /*shop/iphone/payments/overlay/*\nDisallow: /cn/*/aow/*\nDisallow: /tmall*\nAllow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* \t\n\nUser-agent: Baiduspider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-edu/*\nAllow: /cn-k12/*\n\nUser-agent: HaoSouSpider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-edu/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou web spider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou inst spider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou spider2\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\n#DaumWebMasterTool:6ff40e0f09564a9d4e3bc80e7cbde7c196677a2f5f610eb9c029836774f9a8e9:D9a8IEFAzmC/NWsQ3tB0Wg==\n\nSitemap: https://www.apple.com/shop/sitemap.xml\nSitemap: https://www.apple.com/autopush/sitemap/sitemap-index.xml\nSitemap: https://www.apple.com/newsroom/sitemap.xml\nSitemap: https://www.apple.com/retail/sitemap/sitemap.xml\nSitemap: https://www.apple.com/today/sitemap-index.xml\n"
+  },
+  "security": {
+    "hsts": true,
+    "csp": true,
+    "other_security_headers": {
+      "x-frame-options": "SAMEORIGIN",
+      "referrer-policy": "no-referrer-when-downgrade",
+      "x-content-type-options": "nosniff",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "tech_stack": [
+    "Cart Functionality"
+  ],
+  "perf": {
+    "lcp": 18.587612,
+    "inp": 19165.112,
+    "cls": 0
+  }
+}

@@ -1,0 +1,109 @@
+# 🏆 SEO Audit Report – {{ rep.url }}
+
+> **扫描时间** {{ now }} | **总分** `{{ scores.overall }}` / 100  
+> 核心结论：{{ llm.summary_one_sentence }}
+
+---
+
+## 1. 总览
+
+| 维度 | 得分 |
+|------|------|
+{%- for name, val in scores.pillars.items() %}
+| {{ name }} | `{{ val }}` |
+{%- endfor %}
+
+![Overall Gauge](gauge.png)
+
+
+---
+
+## 2. 技术合规 (20)
+
+| 指标 | 实测 |
+|------|------|
+| HTTP 状态 | `{{ rep.status_code }}` |
+| HSTS | `{{ rep.security.hsts }}` |
+| CSP | `{{ rep.security.csp }}` |
+| robots.txt | `{{ rep.robots.status }}` |
+| Sitemap | `{{ rep.robots.sitemaps|length }}` |
+
+![Security Heatmap](security_heatmap.png)
+
+---
+
+## 3. 页面内容 (20)
+
+| 指标 | 实测 |
+|------|------|
+| H1 Count | `{{ rep.analysis.h1_count }}` |
+| H2 Count | `{{ rep.analysis.h2_count }}` |
+| H3 Count | `{{ rep.analysis.h3_count }}` |
+| Missing Alt Images | `{{ rep.analysis.images_missing_alt_count }}` |
+| Text Ratio (%) | `{{ rep.analysis.text_ratio_percent }}` |
+
+![Heading Histogram](headings.png)
+
+---
+
+## 4. 结构 & 可访问性 (20)
+
+| 指标 | 实测 |
+|------|------|
+| Internal Links | `{{ rep.analysis.links_internal_count }}` |
+| External Links | `{{ rep.analysis.links_external_count }}` |
+| Nav Links | `{{ rep.analysis.nav_links|length }}` |
+| Schema Types | `{{ rep.analysis.schema_types[:10]|join(", ") }}` |
+
+![Link Pie](links.png)  
+![Schema Cloud](schema_cloud.png)
+
+---
+
+## 5. 性能 & 体验 (20)
+
+
+| 指标 | 实测 |
+|------|------|
+| LCP | `{{ "%.2f"|format(perf.lcp) }}` |
+| FID/INP | `{{ "%.2f"|format(perf.inp) }}` |
+| CLS | `{{ perf.cls if perf.cls is not none else "-" }}` |
+| TTFB | `{{ rep.ttfb_ms }}` |
+
+![Performance Line](perf_line.png)
+
+---
+
+## 6. 权威 & 语义 (20)
+
+| 指标 | 实测 |
+|------|------|
+| Structured Data Count | `{{ rep.analysis.structured_data_count }}` |
+| Tech Stack | `{{ rep.tech_stack[:5]|join(", ") }}` |
+
+![Radar Chart](radar.png)
+
+---
+
+## 7. 细节
+
+<details>
+<summary>首段正文</summary>
+
+`{{ rep.analysis.first_paragraph }}`
+</details>
+
+<details>
+<summary>Quick Tips</summary>
+
+{% for tip in quick_tips %}
+- {{ tip }}
+{% endfor %}
+</details>
+
+---
+
+## 8. LLM 建议
+
+{{ llm.advice|join("\n\n") }}
+

@@ -1,0 +1,78 @@
+{
+  "url": "https://y2mate.nu/en-sDNs/",
+  "status_code": 200,
+  "response_time_ms": 7439.8,
+  "ttfb_ms": null,
+  "headers": {
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "date": "Tue, 20 May 2025 13:16:19 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://y2mate.nu/en-sDNs/>; rel=\"canonical\"",
+    "content-security-policy": "frame-ancestors 'none'",
+    "content-encoding": "gzip",
+    "x-firefox-spdy": "h2"
+  },
+  "analysis": {
+    "title": "Y2Mate - YouTube to MP3 Converter",
+    "meta_description": "Convert your favorite YouTube videos to MP3 or MP4 files, and download them for free with Y2Mate, the fastest YouTube Converter. No apps needed.",
+    "metas": {
+      "description": "Convert your favorite YouTube videos to MP3 or MP4 files, and download them for free with Y2Mate, the fastest YouTube Converter. No apps needed.",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": false,
+    "hreflang_count": 0,
+    "social_tags_count": 0,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "YouTube to MP3 Converter"
+      }
+    ],
+    "h1_count": 1,
+    "h2_count": 0,
+    "h3_count": 0,
+    "links_internal_count": 11,
+    "links_external_count": 1,
+    "images_missing_alt_count": 0,
+    "text_ratio_percent": 23.03,
+    "word_count": 236,
+    "visible_snippet": "Y2Mate - YouTube to MP3 Converter Home FAQ Add-On Changelog Insert a YouTube video URL MP3 Convert YouTube to MP3 Converter Our YouTube to MP3 Converter allows you to convert your favorite YouTube vid…",
+    "first_paragraph": "Our YouTube to MP3 Converter allows you to convert your favorite YouTube videos to MP3 (audio) or MP4 (video) files and to download them for FREE.Y2Mateworks on your desktop, tablet and mobile device without the installation of any additional apps. The usage of Y2Mate is free, and safe!",
+    "render_mode": "ssr/ssg",
+    "structured_data_count": 0,
+    "schema_types": [],
+    "structured_data": {
+      "microdata": [],
+      "json-ld": [],
+      "rdfa": []
+    },
+    "nav_links": [],
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "inputs": [
+          "v"
+        ]
+      }
+    ]
+  },
+  "robots": {
+    "status": 200,
+    "sitemaps": [
+      "https://y2mate.nu/sitemap.xml"
+    ],
+    "raw": "User-agent: *\r\nDisallow: /mypage/\r\nDisallow: /restricted/\r\n\r\nSitemap: https://y2mate.nu/sitemap.xml"
+  },
+  "security": {
+    "hsts": false,
+    "csp": true,
+    "other_security_headers": {}
+  },
+  "tech_stack": [],
+  "perf": {
+    "lcp": 0.814,
+    "inp": 814,
+    "cls": 0
+  }
+}

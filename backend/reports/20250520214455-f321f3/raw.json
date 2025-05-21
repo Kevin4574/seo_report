@@ -1,0 +1,1162 @@
+{
+  "url": "https://www.apple.com.cn/",
+  "status_code": 200,
+  "response_time_ms": 8128.4,
+  "ttfb_ms": null,
+  "headers": {
+    "server": "Apple",
+    "content-type": "text/html; charset=utf-8",
+    "set-cookie": "geo=CN; path=/; domain=www.apple.com.cn",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "vary": "Accept-Encoding",
+    "content-security-policy": "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple.com.cn *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com.cn swdlp.apple.com www.apple.com.cn www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple.com.cn *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: apple.com *.apple.com *.apple.com.cn *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com *.apple.com.cn",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "content-encoding": "gzip",
+    "cache-control": "max-age=77",
+    "expires": "Tue, 20 May 2025 13:46:16 GMT",
+    "date": "Tue, 20 May 2025 13:44:59 GMT",
+    "content-length": "30441",
+    "x-firefox-spdy": "h2"
+  },
+  "analysis": {
+    "title": "Apple (中国大陆) - 官方网站",
+    "meta_description": "探索 Apple 的创新世界，选购各式 iPhone、iPad、Apple Watch 和 Mac，浏览各类配件、娱乐产品，并获得相关产品的专家服务支持。",
+    "metas": {
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "analytics-track": "Apple - Index/Tab",
+      "analytics-s-channel": "homepage",
+      "analytics-s-bucket-0": "applestoreww",
+      "analytics-s-bucket-1": "applestoreww",
+      "analytics-s-bucket-2": "applestoreww",
+      "description": "探索 Apple 的创新世界，选购各式 iPhone、iPad、Apple Watch 和 Mac，浏览各类配件、娱乐产品，并获得相关产品的专家服务支持。",
+      "og:title": "Apple (中国大陆) - 官方网站",
+      "og:description": "探索 Apple 的创新世界，选购各式 iPhone、iPad、Apple Watch 和 Mac，浏览各类配件、娱乐产品，并获得相关产品的专家服务支持。",
+      "keywords": "苹果官网, Apple官网, 苹果中国, Apple中国",
+      "og:url": "https://www.apple.com.cn/",
+      "og:locale": "zh_CN",
+      "og:image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202409130501",
+      "og:type": "website",
+      "og:site_name": "Apple (中国大陆) - 官方网站",
+      "globalnav-store-key": "SFX9YPYY9PPXCU9KH"
+    },
+    "canonical": true,
+    "hreflang_count": 137,
+    "social_tags_count": 7,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Apple (中国大陆) - 官方网站"
+      },
+      {
+        "tag": "h2",
+        "text": "选购"
+      },
+      {
+        "tag": "h2",
+        "text": "快速链接"
+      },
+      {
+        "tag": "h2",
+        "text": "专属商店选购"
+      },
+      {
+        "tag": "h2",
+        "text": "探索 Mac"
+      },
+      {
+        "tag": "h2",
+        "text": "选购 Mac"
+      },
+      {
+        "tag": "h2",
+        "text": "Mac 相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索 iPad"
+      },
+      {
+        "tag": "h2",
+        "text": "选购 iPad"
+      },
+      {
+        "tag": "h2",
+        "text": "iPad 相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索 iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "选购 iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "iPhone 相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索 Apple Watch"
+      },
+      {
+        "tag": "h2",
+        "text": "选购 Apple Watch"
+      },
+      {
+        "tag": "h2",
+        "text": "Apple Watch 相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索 Apple Vision Pro"
+      },
+      {
+        "tag": "h2",
+        "text": "选购 Apple Vision Pro"
+      },
+      {
+        "tag": "h2",
+        "text": "Apple Vision Pro 相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索 AirPods"
+      },
+      {
+        "tag": "h2",
+        "text": "选购 AirPods"
+      },
+      {
+        "tag": "h2",
+        "text": "AirPods 相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索家居"
+      },
+      {
+        "tag": "h2",
+        "text": "选购家居设备"
+      },
+      {
+        "tag": "h2",
+        "text": "家居相关"
+      },
+      {
+        "tag": "h2",
+        "text": "探索娱乐"
+      },
+      {
+        "tag": "h2",
+        "text": "技术支持"
+      },
+      {
+        "tag": "h2",
+        "text": "选购配件"
+      },
+      {
+        "tag": "h2",
+        "text": "探索配件"
+      },
+      {
+        "tag": "h2",
+        "text": "探索技术支持"
+      },
+      {
+        "tag": "h2",
+        "text": "获取帮助"
+      },
+      {
+        "tag": "h2",
+        "text": "实用主题"
+      },
+      {
+        "tag": "h2",
+        "text": "快速链接"
+      },
+      {
+        "tag": "h2",
+        "text": "Apple Watch Series 10"
+      },
+      {
+        "tag": "h2",
+        "text": "iPhone"
+      },
+      {
+        "tag": "h2",
+        "text": "MacBook Air"
+      },
+      {
+        "tag": "h3",
+        "text": "iPad Air"
+      },
+      {
+        "tag": "h3",
+        "text": "有 Mac 都好办。"
+      },
+      {
+        "tag": "h3",
+        "text": "AirPods Pro 2"
+      },
+      {
+        "tag": "h3",
+        "text": "AirPods 4"
+      },
+      {
+        "tag": "h3",
+        "text": "HomePod mini"
+      },
+      {
+        "tag": "h2",
+        "text": "Apple 网页页脚"
+      },
+      {
+        "tag": "h3",
+        "text": "选购及了解选购及了解"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple 钱包Apple 钱包"
+      },
+      {
+        "tag": "h3",
+        "text": "账户账户"
+      },
+      {
+        "tag": "h3",
+        "text": "娱乐娱乐"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple Store 商店Apple Store 商店"
+      },
+      {
+        "tag": "h3",
+        "text": "商务应用商务应用"
+      },
+      {
+        "tag": "h3",
+        "text": "教育应用教育应用"
+      },
+      {
+        "tag": "h3",
+        "text": "Apple 价值观Apple 价值观"
+      },
+      {
+        "tag": "h3",
+        "text": "关于 Apple关于 Apple"
+      }
+    ],
+    "h1_count": 1,
+    "h2_count": 36,
+    "h3_count": 14,
+    "links_internal_count": 228,
+    "links_external_count": 32,
+    "images_missing_alt_count": 1,
+    "text_ratio_percent": 1.97,
+    "word_count": 678,
+    "visible_snippet": "Apple (中国大陆) - 官方网站 Apple (中国大陆) - 官方网站 Apple 商店 选购 选购新品 Mac iPad iPhone Apple Watch Apple Vision Pro 配件 快速链接 查找零售店 订单状态 Apple Trade In 换购计划 分期付款 个人设置辅导 专属商店选购 认证的翻新产品 教育 商务 Mac 探索 Mac 探索全部 Mac 机型 Mac…",
+    "first_paragraph": "薄爆表",
+    "render_mode": "csr",
+    "structured_data_count": 76,
+    "schema_types": [
+      "Organization",
+      "WebPage"
+    ],
+    "structured_data": {
+      "microdata": [],
+      "json-ld": [
+        {
+          "@context": "http://schema.org",
+          "@id": "https://www.apple.com.cn/#organization",
+          "@type": "Organization",
+          "name": "Apple",
+          "url": "https://www.apple.com.cn/",
+          "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202409130501",
+          "subOrganization": {
+            "@type": "Organization",
+            "name": "Apple Support",
+            "url": "https://support.apple.com",
+            "@id": "https://support.apple.com/#organization"
+          },
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-800-692-7753",
+              "contactType": "sales",
+              "areaServed": "US"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-800-275-2273",
+              "contactType": "technical support",
+              "areaServed": "US",
+              "availableLanguage": [
+                "EN",
+                "ES"
+              ]
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-800-275-2273",
+              "contactType": "customer support",
+              "areaServed": "US",
+              "availableLanguage": [
+                "EN",
+                "ES"
+              ]
+            }
+          ],
+          "sameAs": [
+            "http://www.wikidata.org/entity/Q312",
+            "https://www.youtube.com/user/Apple",
+            "https://www.linkedin.com/company/apple",
+            "https://www.facebook.com/Apple",
+            "https://www.twitter.com/Apple"
+          ]
+        },
+        {
+          "@context": "http://schema.org",
+          "@id": "https://www.apple.com.cn/#webpage",
+          "@type": "WebPage",
+          "url": "https://www.apple.com.cn/",
+          "name": "Apple (中国大陆) - 官方网站"
+        }
+      ],
+      "rdfa": [
+        {
+          "@id": "_:Nd926525f82f041498a7e8e74209f8f31",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-about",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N847f10560c41480c9ce22b965c02cad6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd14044f647e24806bdcfad3a5f201e3c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn",
+          "http://ogp.me/ns#description": [
+            {
+              "@language": "zh-cn",
+              "@value": "探索 Apple 的创新世界，选购各式 iPhone、iPad、Apple Watch 和 Mac，浏览各类配件、娱乐产品，并获得相关产品的专家服务支持。"
+            }
+          ],
+          "http://ogp.me/ns#image": [
+            {
+              "@language": "zh-cn",
+              "@value": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202409130501"
+            }
+          ],
+          "http://ogp.me/ns#locale": [
+            {
+              "@language": "zh-cn",
+              "@value": "zh_CN"
+            }
+          ],
+          "http://ogp.me/ns#site_name": [
+            {
+              "@language": "zh-cn",
+              "@value": "Apple (中国大陆) - 官方网站"
+            }
+          ],
+          "http://ogp.me/ns#title": [
+            {
+              "@language": "zh-cn",
+              "@value": "Apple (中国大陆) - 官方网站"
+            }
+          ],
+          "http://ogp.me/ns#type": [
+            {
+              "@language": "zh-cn",
+              "@value": "website"
+            }
+          ],
+          "http://ogp.me/ns#url": [
+            {
+              "@language": "zh-cn",
+              "@value": "https://www.apple.com.cn/"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb131eabac91c4705bdde501a1e283668",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N06c7b0bf3b9544bb88745d5b2cfeb911",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N978016d9fd0d453d84a3aa61645e2634",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1bf932078a8c4f2fbd755c21a8b8ce85",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N614a46e85bb74dd094913748ec610cdf",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N888f951dee95484bbd8c8c8b94babe5e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-accounts",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3d17eefd3d694178b4703b9c8ea62056",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne15bbfc8e044410fb52c13966d860949",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-applewallet",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Naccd31d208f34652af71ed983ab9bfd1",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0eb26284b6824cf5a15d884bfe271b54",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-business",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4959b82fae0a494f907d175a3950a79b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N42e373886bf54f8780f461c576a0d30f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf6f539cf33ea456a9a433033e64fe83f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndc04da0b3060455ab11a36a57e713570",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N10e30a34457741568b5992cb1cc6e79e",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1d89793a0c7d4371959d6fc35d726dc5",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N4cbf8d639d194e08a27dea5af067c531",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N3970ef9de8884c5aa130635524b1ad23",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#globalnav-menubutton-link-search",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:N982176ad8f3447e1b226ea5f9fc51210",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nd47a72efc5c6460f98c7a4c9480e528b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1485bfe594e54eb2b77833812a59e32f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N8c5b4cd31bd448f0a2dd3dacb1923415",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Neb380a0ddd9644ebb6eaf78eb318ba06",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N638bb132b08f489080bdf2f0397643d6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N47721bb798ab46c2840dbcdf92d48066",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-entertainment",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc0a8fc6493df4c059d8d2504b053142c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N51fe9f550808404492cfd31d9bd26c97",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-responsibility",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N1feb257f4e4241c28c7505aae17c6956",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N181179b4014c426db64ae7175bfea8af",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N175bf058834e4326ba1c971ac3576c38",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N24339c95868a4dbb96d57b21ddbad4c6",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N2d3652d7a5924bb8a6ee1ee31c388122",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#globalnav-menubutton-link-bag",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb37ab3fb9a86474388ab8fac96f1855a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb6f31833b1ca4f3fb663c067ba5e501f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nec8792d7d497442f8b3ce6c754f175ab",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndc50ad71ed8f436281d2f7d66a2db3da",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N197cae9f6f104356bc971b7bfb8afa6c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nc81fca3ab1a14b10afddb019bc727336",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N68a176d6dfee4c209d875053dd559f3b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#ac-globalfooter",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-products",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ne1db55e9ee9d4594a244050aeadcd254",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na824003fb3d049ad8cf3c19d84ac6a51",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-education",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:N77e7984b11634cecaf1d9c7a2c226f27",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndd051e0595d8454ca99599b6ee265d86",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nefb44f78fd894d6f8c7ba1f29cc59c49",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.apple.com.cn#footer-directory-column-section-storeservices",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#list"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nee320d85e87f412d9407d658350f85cd",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nb90e765f06204ef880cbb41b5a6cf71f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N06702b64a4b94673b7f48f67a3300699",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndea089a1b7e9410e96e28bffc48a76e4",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nba7f062f7b1d450682a71cca38cf4b8c",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Ndb4d2d3285d24deda8042e84a237cc3b",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N0e5fe88c97764290aacfc99af1bdbf7f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf497a526d5db4dd4980d659526e4cf3f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Na39f7697b85740fbbf44c6b1266e60c8",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nf69edc46ada149779ea6112099772a90",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nfa7adc2fee7d44319f76e327c17e7930",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:Nad49782d29764eefbecb6ee00e1a027f",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#status"
+            }
+          ]
+        },
+        {
+          "@id": "_:N9ec0c5a623bd4ab0b8d248c3eae9195a",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        },
+        {
+          "@id": "_:N441e82920a86460fb48ef2f9585e8d29",
+          "http://www.w3.org/1999/xhtml/vocab#role": [
+            {
+              "@id": "http://www.w3.org/1999/xhtml/vocab#listitem"
+            }
+          ]
+        }
+      ]
+    },
+    "nav_links": [
+      "Apple",
+      "商店",
+      "选购新品",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Apple Watch",
+      "Apple Vision Pro",
+      "配件",
+      "查找零售店",
+      "订单状态",
+      "Apple Trade In 换购计划",
+      "分期付款",
+      "个人设置辅导",
+      "认证的翻新产品",
+      "教育",
+      "商务",
+      "探索全部 Mac 机型",
+      "MacBook Air",
+      "MacBook Pro",
+      "iMac",
+      "Mac mini",
+      "Mac Studio",
+      "Mac Pro",
+      "显示器",
+      "Mac 机型比较",
+      "从 PC 换成 Mac",
+      "选购 Mac",
+      "Mac 配件",
+      "Mac 支持",
+      "AppleCare+ 服务计划 (适用于 Mac)",
+      "macOS Sequoia",
+      "Apple 打造的 App",
+      "连续互通",
+      "iCloud+",
+      "Mac 商务应用",
+      "探索全部 iPad 机型",
+      "iPad Pro",
+      "iPad Air",
+      "iPad mini",
+      "Apple Pencil",
+      "键盘",
+      "iPad 机型比较",
+      "选 iPad 的理由",
+      "选购 iPad",
+      "iPad 配件",
+      "iPad 支持",
+      "AppleCare+ 服务计划 (适用于 iPad)",
+      "iPadOS 18",
+      "探索全部 iPhone 机型",
+      "iPhone 16 Pro",
+      "iPhone 16",
+      "iPhone 16e",
+      "iPhone 15",
+      "iPhone 机型比较",
+      "换成 iPhone",
+      "选购 iPhone",
+      "iPhone 配件",
+      "iPhone 支持",
+      "AppleCare+ 服务计划 (适用于 iPhone)",
+      "iOS 18",
+      "iPhone 隐私保护",
+      "Apple Pay",
+      "Siri",
+      "Watch",
+      "探索全部 Apple Watch 表款",
+      "Apple Watch Series 10",
+      "Apple Watch Ultra 2",
+      "Apple Watch SE",
+      "Apple Watch Nike",
+      "Apple Watch Hermès",
+      "Apple Watch 表款比较",
+      "Apple Watch 哪里好",
+      "选购 Apple Watch",
+      "Apple Watch 定制坊",
+      "Apple Watch 表带",
+      "Apple Watch 配件",
+      "Apple Watch 支持",
+      "AppleCare+ 服务计划",
+      "watchOS 11",
+      "Apple Watch 亲子设置",
+      "Vision",
+      "探索 Apple Vision Pro",
+      "入门导览",
+      "技术规格",
+      "选购 Apple Vision Pro",
+      "Apple Vision Pro 配件",
+      "预约演示试用",
+      "Apple Vision Pro 支持",
+      "visionOS 2",
+      "AirPods",
+      "探索全部 AirPods 机型",
+      "AirPods 4",
+      "AirPods Pro 2",
+      "AirPods Max",
+      "AirPods 机型比较",
+      "选购 AirPods",
+      "AirPods 配件",
+      "AirPods 支持",
+      "AppleCare+ 服务计划 (适用于耳机)",
+      "Apple Music",
+      "家居",
+      "探索家居项目",
+      "HomePod",
+      "HomePod mini",
+      "选购 HomePod",
+      "选购 HomePod mini",
+      "家居配件",
+      "HomePod 支持",
+      "家庭 App",
+      "隔空播放",
+      "娱乐",
+      "探索娱乐内容",
+      "Apple 播客",
+      "App Store",
+      "Apple Music 支持",
+      "选购所有配件",
+      "来自 Apple 的配件",
+      "Beats by Dr. Dre",
+      "AirTag",
+      "技术支持",
+      "Music",
+      "探索各类技术支持",
+      "社区",
+      "查看保修服务",
+      "维修",
+      "获取 AppleCare+ 服务计划",
+      "Apple 账户和密码",
+      "账单和订阅",
+      "辅助功能",
+      "App Store 充值卡",
+      "Apple Pay",
+      "Apple Pay 公交",
+      "管理你的 Apple 账户",
+      "Apple Store 账户",
+      "iCloud.com",
+      "Apple Music",
+      "App Store",
+      "Genius Bar 天才吧",
+      "Today at Apple",
+      "团体预约",
+      "Apple 夏令营",
+      "Apple Store App",
+      "Apple Trade In 换购计划",
+      "选购帮助",
+      "Apple 与商务",
+      "商务选购",
+      "Apple 与教育",
+      "高校师生选购",
+      "环境责任",
+      "隐私",
+      "供应链",
+      "Newsroom",
+      "Apple 管理层",
+      "工作机会",
+      "创造就业",
+      "商业道德与合规性",
+      "活动",
+      "联系 Apple"
+    ],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "GET",
+        "inputs": [
+          "src"
+        ]
+      }
+    ]
+  },
+  "robots": {
+    "status": 200,
+    "sitemaps": [
+      "https://www.apple.com.cn/shop/sitemap.xml",
+      "https://www.apple.com.cn/autopush/cn/sitemap/sitemap-index.xml",
+      "https://www.apple.com.cn/newsroom/sitemap.xml",
+      "https://www.apple.com.cn/retail/sitemap/sitemap.xml",
+      "https://www.apple.com.cn/today/sitemap-index.xml"
+    ],
+    "raw": "# robots.txt for https://www.apple.com.cn/\n\nUser-agent: *\n\nDisallow: /*shop/browse/overlay/*\nDisallow: /*shop/iphone/payments/overlay/*\nDisallow: /*/aow/*\nDisallow: /tmall*\nDisallow: /promo*\nDisallow: /alipay/*\nDisallow: /alipay_edu/*\nDisallow: /cn/shop/buy-*\nDisallow: /cn_abc*\nDisallow: /cn_ccb*\nDisallow: /cn_cmb*\nDisallow: /cn_icbc*\nDisallow: /cn-smb*\nDisallow: /*?afid*\nDisallow: /*?aid=*\nDisallow: /*?cid=afid$\nDisallow: /*?cid=aos-cn-kwba*\nDisallow: /*?cid=wwa$\nDisallow: /*?cid=www$\nDisallow: /*?ivk_sa*\nDisallow: /*s=price\nDisallow: /?1341757673\nDisallow: /?cp*\nDisallow: /*gw_id\nDisallow: /email_*\nDisallow: /cn_kiosk*\nDisallow: */back*school/terms*\nAllow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* \n\n# Sitemaps\n\nSitemap: https://www.apple.com.cn/shop/sitemap.xml\nSitemap: https://www.apple.com.cn/autopush/cn/sitemap/sitemap-index.xml\nSitemap: https://www.apple.com.cn/newsroom/sitemap.xml\nSitemap: https://www.apple.com.cn/retail/sitemap/sitemap.xml \nSitemap: https://www.apple.com.cn/today/sitemap-index.xml\n"
+  },
+  "security": {
+    "hsts": true,
+    "csp": true,
+    "other_security_headers": {
+      "referrer-policy": "no-referrer-when-downgrade",
+      "x-xss-protection": "1; mode=block",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "tech_stack": [
+    "Cart Functionality"
+  ],
+  "perf": {
+    "lcp": 15.603216500000002,
+    "inp": 15603.216500000002,
+    "cls": 0
+  }
+}
