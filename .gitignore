@@ -1,0 +1,6 @@
+# 忽略环境配置和依赖
+.env
+node_modules/
+.next/
+reports/
+*.pyc
