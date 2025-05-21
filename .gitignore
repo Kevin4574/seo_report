@@ -1,6 +1,43 @@
-# .gitignore （项目根目录）
+# ─── 环境配置 ───
+# 顶层 .env
 .env
+# 子项目环境
+backend/.env
+frontend/.env.local
+
+# ─── Python ───
+# 缓存、编译产物
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ─── Node.js & Next.js ───
+# 依赖
 node_modules/
+frontend/node_modules/
+# Next.js 构建输出
 .next/
+out/
+
+# ─── 报告 & 数据 ───
+# 后端生成的 reports
+backend/reports/
+reports-data/
 reports/
-*.pyc
+
+# ─── 日志 ───
+*.log
+
+# ─── 构建产物 ───
+dist/
+build/
+
+# ─── 操作系统 & 编辑器 ───
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# VSCode
+.vscode/
+# IDE (JetBrains)
+.idea/
