@@ -1,4 +1,4 @@
-# 忽略环境配置和依赖
+# .gitignore （项目根目录）
 .env
 node_modules/
 .next/
